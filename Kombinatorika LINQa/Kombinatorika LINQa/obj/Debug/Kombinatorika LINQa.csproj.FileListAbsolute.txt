@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\Kombinatorika LINQa\Kombinatorika LINQa\bin\Debug\Kombinatorika LINQa.exe.config
+C:\Users\Ucenik\source\repos\Kombinatorika LINQa\Kombinatorika LINQa\bin\Debug\Kombinatorika LINQa.exe
+C:\Users\Ucenik\source\repos\Kombinatorika LINQa\Kombinatorika LINQa\bin\Debug\Kombinatorika LINQa.pdb
+C:\Users\Ucenik\source\repos\Kombinatorika LINQa\Kombinatorika LINQa\obj\Debug\Kombinatorika LINQa.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Kombinatorika LINQa\Kombinatorika LINQa\obj\Debug\Kombinatorika LINQa.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Kombinatorika LINQa\Kombinatorika LINQa\obj\Debug\Kombinatorika LINQa.exe
+C:\Users\Ucenik\source\repos\Kombinatorika LINQa\Kombinatorika LINQa\obj\Debug\Kombinatorika LINQa.pdb
